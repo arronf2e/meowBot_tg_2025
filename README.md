@@ -21,7 +21,7 @@ As a pioneering project on Kaia Wave, Meowtopia lets you Rescue Cats, Climb the 
 
 - Node.js installed on your machine
 - `accounts.txt` file containing address from Meowtopia platform follow instruction below to get:
-- Open Meowtopia miniApp [https://t.me/Meowtopia_Kaiabot/](https://t.me/Meowtopia_Kaiabot/myapp?startapp=1942365516)
+- Open Meowtopia miniApp [https://t.me/Meowtopia_Kaiabot/](https://t.me/Meowtopia_Kaiabot/myapp?startapp=5955197685)
 
 - in game find settings/gear logo  click and copy your id
     ![id](./img/image-1.png)
